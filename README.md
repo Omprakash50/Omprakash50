@@ -3,7 +3,7 @@
 <!--Header-->
 
 <p align="center">
-  <img src="https://www.capgemini.com/wp-content/uploads/2019/09/DEVOPS.gif?raw=true" width="1000" height="500" />
+  <img src="https://github.com/Omprakash50/Omprakash50/blob/main/DEVOPS.gif?raw=true" width="1000" height="500" />
 </p>
 
 ## Connect Me At Below
