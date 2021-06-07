@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Omprakash 👨‍🎓
 
-<!--
-**Omprakash50/Omprakash50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Header-->
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://www.capgemini.com/wp-content/uploads/2019/09/DEVOPS.gif?raw=true" width="1000" height="500" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect Me At Below
+  <!--social media icon-->
+<div align="center">
+ 
+
